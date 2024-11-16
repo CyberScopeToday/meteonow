@@ -1,6 +1,6 @@
 # 🌤️ Meteonow Forecast
 
-## 🌐 Выберите язык / Оберіть мову / Vyberte jazyk / Wählen Sie eine Sprache
+## 🌐 Выберите язык
 
 - [🇬🇧 English](README.md)
 - [🇷🇺 Русский](README.ru.md)
