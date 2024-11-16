@@ -2,7 +2,7 @@
 
 ## 🌐 Выберите язык / Оберіть мову / Vyberte jazyk / Wählen Sie eine Sprache
 
-- [🇬🇧 English](README.en.md)
+- [🇬🇧 English](README.md)
 - [🇷🇺 Русский](README.ru.md)
 - [🇺🇦 Українська](README.ua.md)
 - [🇸🇰 Slovenčina](README.sk.md)
