@@ -1,5 +1,14 @@
 # 🌤️ Meteonow Forecast
 
+## 🌐 Выберите язык / Оберіть мову / Vyberte jazyk / Wählen Sie eine Sprache
+
+- [🇬🇧 English](README.en.md)
+- [🇷🇺 Русский](README.ru.md)
+- [🇺🇦 Українська](README.ua.md)
+- [🇸🇰 Slovenčina](README.sk.md)
+- [🇩🇪 Deutsch](README.de.md)
+
+
 **🔓 Public Repository (No Source Code)**  
 This repository demonstrates the Meteonow Forecast website. It showcases screenshots, documentation, and information about the project. **No source code is provided.**
 
