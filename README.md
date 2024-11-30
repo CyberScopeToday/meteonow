@@ -1,5 +1,7 @@
 # 🌤️ Meteonow Forecast
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/781148304b1a4945937a1c9bd26088bb)](https://app.codacy.com/gh/CyberScopeToday/meteonow?utm_source=github.com&utm_medium=referral&utm_content=CyberScopeToday/meteonow&utm_campaign=Badge_Grade)
+
 ## 🌐 Выберите язык / Оберіть мову / Vyberte jazyk / Wählen Sie eine Sprache
 
 - [🇬🇧 English](README.md)
